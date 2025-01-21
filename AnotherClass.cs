@@ -10,7 +10,7 @@ namespace GitFun
     {
         public void DoSomething()
         {
-
+            Console.WriteLine("This is from Evil Hilton. Ha, ha, ha!");
         }
     }
 }
