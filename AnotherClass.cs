@@ -12,6 +12,8 @@ namespace GitFun
         {
             Console.WriteLine("This is from Evil Hilton. Ha, ha, ha!");
             Console.WriteLine("This is some code from Prof. Hilton");
+            
+            Console.WriteLine("Evil Hilton is Breaking Good!");
         }
     }
 }
